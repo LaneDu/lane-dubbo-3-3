@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16a2cf44-1e64-44cf-bd69-7ab676ac75a7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1u4VfUgq4y5VYUKD99oftzmf1VY" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.AnnotationConsumerMain">
+    <configuration name="AnnotationConsumerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.galaxy.config.AnnotationConsumerMain" />
+      <module name="service-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.galaxy.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DubboMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.galaxy.demo.DubboMain" />
+      <module name="service-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.galaxy.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AnnotationConsumerMain" />
+        <item itemvalue="Application.DubboMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16a2cf44-1e64-44cf-bd69-7ab676ac75a7" name="Default Changelist" comment="" />
+      <created>1623924951071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623924951071</updated>
+      <workItem from="1623924953864" duration="1460000" />
+      <workItem from="1623988789447" duration="157000" />
+      <workItem from="1623988967797" duration="238000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="356" y="240" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1623925685896">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="356" y="240" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1623925685896" />
+    <state x="486" y="95" key="#com.intellij.ide.util.MemberChooser" timestamp="1623925364384">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="486" y="95" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1623925364384" />
+    <state width="1388" height="157" key="GridCell.Tab.0.bottom" timestamp="1623926990728">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="157" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1623926990728" />
+    <state width="1388" height="157" key="GridCell.Tab.0.center" timestamp="1623926990727">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="157" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1623926990727" />
+    <state width="1388" height="157" key="GridCell.Tab.0.left" timestamp="1623926990723">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="157" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1623926990723" />
+    <state width="1388" height="157" key="GridCell.Tab.0.right" timestamp="1623926990728">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="157" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1623926990728" />
+    <state x="289" y="91" key="NewModule_or_Project.wizard" timestamp="1623926989067">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="289" y="91" key="NewModule_or_Project.wizard/0.0.1440.900@0.0.1440.900" timestamp="1623926989067" />
+  </component>
+</project>

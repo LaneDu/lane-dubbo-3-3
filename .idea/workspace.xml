@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5edc6d0-9a34-463d-8cc8-2f5563484f0a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1u1UuKzo3jId04SmjWOAveZkb8j" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5edc6d0-9a34-463d-8cc8-2f5563484f0a" name="Default Changelist" comment="" />
+      <created>1623832809132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623832809132</updated>
+      <workItem from="1623832813464" duration="1819000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="80" y="25" key="#Project_Structure" timestamp="1623833328742">
+      <screen x="0" y="25" width="1440" height="775" />
+    </state>
+    <state x="80" y="25" key="#Project_Structure/0.25.1440.775@0.25.1440.775" timestamp="1623833328742" />
+    <state x="289" y="54" key="NewModule_or_Project.wizard" timestamp="1623838158766">
+      <screen x="0" y="25" width="1440" height="776" />
+    </state>
+    <state x="289" y="54" key="NewModule_or_Project.wizard/0.25.1440.776@0.25.1440.776" timestamp="1623838158766" />
+    <state x="100" y="125" width="1240" height="575" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1623833441352">
+      <screen x="0" y="25" width="1440" height="775" />
+    </state>
+    <state x="100" y="125" width="1240" height="575" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1440.775@0.25.1440.775" timestamp="1623833441352" />
+    <state x="0" y="25" key="new project wizard" timestamp="1623833620729">
+      <screen x="0" y="25" width="1440" height="775" />
+    </state>
+    <state x="0" y="25" key="new project wizard/0.25.1440.775@0.25.1440.775" timestamp="1623833620729" />
+  </component>
+</project>

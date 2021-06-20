@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="service-api" />
+        <module name="service-provider" />
+        <module name="service-consumer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dubbo-base" target="11" />
+      <module name="service-api" target="11" />
+      <module name="service-consumer" target="11" />
+      <module name="service-provider" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

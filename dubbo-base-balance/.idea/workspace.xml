@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9cf1a66c-eff6-48ee-bf21-0b00cdb69e78" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1u1fkUPCoj5xPt6ekiwwiNmzhJ5" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/balance-provider/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.galaxy.service" />
+      <recent name="" />
+      <recent name="com.galaxy.service.demo" />
+      <recent name="com.galaxy.config" />
+      <recent name="com.galaxy.demo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/balance-provider/src/main/resources" />
+      <recent name="$PROJECT_DIR$/service-consumer-two/src/main/resources" />
+      <recent name="$PROJECT_DIR$/service-provider/src/main/resources" />
+      <recent name="$PROJECT_DIR$/service-provide-three/src/main/resources" />
+      <recent name="$PROJECT_DIR$/service-provide-three/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ProviderDemo">
+    <configuration name="ConsumerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.galaxy.demo.ConsumerDemo" />
+      <module name="service-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.galaxy.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerDemoTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConsumerDemoTwo" />
+      <module name="service-consumer-two" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.galaxy.service.ProviderDemo" />
+      <module name="service-api-balance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.galaxy.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.galaxy.service.ProviderDemo" />
+      <module name="service-provider" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/service-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.galaxy.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.galaxy.service.ProviderDemo2" />
+      <module name="service-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.galaxy.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ConsumerDemo" />
+      <item itemvalue="Application.ConsumerDemoTwo" />
+      <item itemvalue="Application.ProviderDemo" />
+      <item itemvalue="Application.ProviderDemo2" />
+      <item itemvalue="Application.ProviderDemo (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProviderDemo" />
+        <item itemvalue="Application.ProviderDemo (1)" />
+        <item itemvalue="Application.ProviderDemo2" />
+        <item itemvalue="Application.ConsumerDemoTwo" />
+        <item itemvalue="Application.ConsumerDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cf1a66c-eff6-48ee-bf21-0b00cdb69e78" name="Default Changelist" comment="" />
+      <created>1623838158801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623838158801</updated>
+      <workItem from="1623838162997" duration="7962000" />
+      <workItem from="1623926992256" duration="5019000" />
+      <workItem from="1623981646819" duration="459000" />
+      <workItem from="1623982110062" duration="1974000" />
+      <workItem from="1623984225734" duration="960000" />
+      <workItem from="1623985600170" duration="1993000" />
+      <workItem from="1623988836895" duration="110000" />
+      <workItem from="1623988965336" duration="220000" />
+      <workItem from="1624000303722" duration="1446000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="80" y="25" key="#Project_Structure" timestamp="1623982004640">
+      <screen x="0" y="25" width="1440" height="781" />
+    </state>
+    <state x="80" y="0" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1623980052991" />
+    <state x="80" y="25" key="#Project_Structure/0.25.1440.776@0.25.1440.776" timestamp="1623839409548" />
+    <state x="80" y="25" key="#Project_Structure/0.25.1440.781@0.25.1440.781" timestamp="1623982004640" />
+    <state x="180" y="110" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623989153363">
+      <screen x="0" y="25" width="1440" height="781" />
+    </state>
+    <state x="180" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1623928605759" />
+    <state x="180" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.776@0.25.1440.776" timestamp="1623987726495" />
+    <state x="180" y="110" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.781@0.25.1440.781" timestamp="1623989153363" />
+    <state x="486" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1624000815793">
+      <screen x="0" y="25" width="1440" height="776" />
+    </state>
+    <state x="486" y="37" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1623979759954" />
+    <state x="486" y="57" key="#com.intellij.ide.util.MemberChooser/0.25.1440.776@0.25.1440.776" timestamp="1624000815793" />
+    <state x="391" y="204" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1623989138136">
+      <screen x="0" y="25" width="1440" height="781" />
+    </state>
+    <state x="391" y="204" key="#com.intellij.ide.util.TreeClassChooserDialog/0.25.1440.781@0.25.1440.781" timestamp="1623989138136" />
+    <state x="46" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1623988043978">
+      <screen x="0" y="25" width="1440" height="776" />
+    </state>
+    <state x="46" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.25.1440.776@0.25.1440.776" timestamp="1623988043978" />
+    <state width="1388" height="238" key="GridCell.Tab.0.bottom" timestamp="1624003419699">
+      <screen x="0" y="25" width="1440" height="776" />
+    </state>
+    <state width="1388" height="259" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1623980440598" />
+    <state width="1388" height="238" key="GridCell.Tab.0.bottom/0.25.1440.776@0.25.1440.776" timestamp="1624003419699" />
+    <state width="1388" height="164" key="GridCell.Tab.0.bottom/0.25.1440.781@0.25.1440.781" timestamp="1623989186744" />
+    <state width="1388" height="359" key="GridCell.Tab.0.bottom/0.25.1440.785@0.25.1440.785" timestamp="1623981062048" />
+    <state width="1388" height="232" key="GridCell.Tab.0.bottom/0.25.1440.788@0.25.1440.788" timestamp="1623980668788" />
+    <state width="1388" height="238" key="GridCell.Tab.0.center" timestamp="1624003419698">
+      <screen x="0" y="25" width="1440" height="776" />
+    </state>
+    <state width="1388" height="259" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1623980440597" />
+    <state width="1388" height="238" key="GridCell.Tab.0.center/0.25.1440.776@0.25.1440.776" timestamp="1624003419698" />
+    <state width="1388" height="164" key="GridCell.Tab.0.center/0.25.1440.781@0.25.1440.781" timestamp="1623989186743" />
+    <state width="1388" height="359" key="GridCell.Tab.0.center/0.25.1440.785@0.25.1440.785" timestamp="1623981062047" />
+    <state width="1388" height="232" key="GridCell.Tab.0.center/0.25.1440.788@0.25.1440.788" timestamp="1623980668787" />
+    <state width="1388" height="238" key="GridCell.Tab.0.left" timestamp="1624003419698">
+      <screen x="0" y="25" width="1440" height="776" />
+    </state>
+    <state width="1388" height="259" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1623980440596" />
+    <state width="1388" height="238" key="GridCell.Tab.0.left/0.25.1440.776@0.25.1440.776" timestamp="1624003419698" />
+    <state width="1388" height="164" key="GridCell.Tab.0.left/0.25.1440.781@0.25.1440.781" timestamp="1623989186742" />
+    <state width="1388" height="359" key="GridCell.Tab.0.left/0.25.1440.785@0.25.1440.785" timestamp="1623981062047" />
+    <state width="1388" height="232" key="GridCell.Tab.0.left/0.25.1440.788@0.25.1440.788" timestamp="1623980668787" />
+    <state width="1388" height="238" key="GridCell.Tab.0.right" timestamp="1624003419698">
+      <screen x="0" y="25" width="1440" height="776" />
+    </state>
+    <state width="1388" height="259" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1623980440598" />
+    <state width="1388" height="238" key="GridCell.Tab.0.right/0.25.1440.776@0.25.1440.776" timestamp="1624003419698" />
+    <state width="1388" height="164" key="GridCell.Tab.0.right/0.25.1440.781@0.25.1440.781" timestamp="1623989186743" />
+    <state width="1388" height="359" key="GridCell.Tab.0.right/0.25.1440.785@0.25.1440.785" timestamp="1623981062048" />
+    <state width="1388" height="232" key="GridCell.Tab.0.right/0.25.1440.788@0.25.1440.788" timestamp="1623980668787" />
+    <state width="1388" height="230" key="GridCell.Tab.1.bottom" timestamp="1623982106564">
+      <screen x="0" y="25" width="1440" height="781" />
+    </state>
+    <state width="1388" height="230" key="GridCell.Tab.1.bottom/0.25.1440.781@0.25.1440.781" timestamp="1623982106564" />
+    <state width="1388" height="230" key="GridCell.Tab.1.center" timestamp="1623982106564">
+      <screen x="0" y="25" width="1440" height="781" />
+    </state>
+    <state width="1388" height="230" key="GridCell.Tab.1.center/0.25.1440.781@0.25.1440.781" timestamp="1623982106564" />
+    <state width="1388" height="230" key="GridCell.Tab.1.left" timestamp="1623982106564">
+      <screen x="0" y="25" width="1440" height="781" />
+    </state>
+    <state width="1388" height="230" key="GridCell.Tab.1.left/0.25.1440.781@0.25.1440.781" timestamp="1623982106564" />
+    <state width="1388" height="230" key="GridCell.Tab.1.right" timestamp="1623982106564">
+      <screen x="0" y="25" width="1440" height="781" />
+    </state>
+    <state width="1388" height="230" key="GridCell.Tab.1.right/0.25.1440.781@0.25.1440.781" timestamp="1623982106564" />
+    <state x="205" y="100" key="IDE.errors.dialog" timestamp="1623987523690">
+      <screen x="0" y="25" width="1440" height="776" />
+    </state>
+    <state x="205" y="100" key="IDE.errors.dialog/0.25.1440.776@0.25.1440.776" timestamp="1623987523690" />
+    <state x="289" y="84" key="NewModule_or_Project.wizard" timestamp="1624000413473">
+      <screen x="0" y="25" width="1440" height="776" />
+    </state>
+    <state x="289" y="91" key="NewModule_or_Project.wizard/0.0.1440.900@0.0.1440.900" timestamp="1623979996963" />
+    <state x="289" y="84" key="NewModule_or_Project.wizard/0.25.1440.776@0.25.1440.776" timestamp="1624000413473" />
+    <state x="80" y="25" key="SettingsEditor" timestamp="1623982892789">
+      <screen x="0" y="25" width="1440" height="781" />
+    </state>
+    <state x="80" y="25" key="SettingsEditor/0.25.1440.781@0.25.1440.781" timestamp="1623982892789" />
+    <state x="0" y="25" key="new project wizard" timestamp="1624001141882">
+      <screen x="0" y="25" width="1440" height="776" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1623930712393" />
+    <state x="0" y="25" key="new project wizard/0.25.1440.776@0.25.1440.776" timestamp="1624001141882" />
+    <state x="0" y="25" key="new project wizard/0.25.1440.781@0.25.1440.781" timestamp="1623896716579" />
+    <state x="301" y="25" width="838" height="1032" key="search.everywhere.popup" timestamp="1623839112737">
+      <screen x="0" y="25" width="1440" height="776" />
+    </state>
+    <state x="301" y="25" width="838" height="1032" key="search.everywhere.popup/0.25.1440.776@0.25.1440.776" timestamp="1623839112737" />
+    <state x="173" y="29" key="spring file set editor" timestamp="1623988181763">
+      <screen x="0" y="25" width="1440" height="776" />
+    </state>
+    <state x="173" y="29" key="spring file set editor/0.25.1440.776@0.25.1440.776" timestamp="1623988181763" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/service_api_balance$AnnotationConsumerMain.ic" NAME="AnnotationConsumerMain Coverage Results" MODIFIED="1623981536038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.galaxy.config.*</FILTER>
+    </SUITE>
+  </component>
+</project>
